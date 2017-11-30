@@ -1,0 +1,26 @@
+{
+  "name": "aprendendo-git",
+  "version": "1.0.0",
+  "description": "aprendendo git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Litapj/Aprendendo-git.git"
+  },
+  "keywords": [
+    "aprender",
+    "git"
+  ],
+  "author": "talita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Litapj/Aprendendo-git/issues"
+  },
+  "homepage": "https://github.com/Litapj/Aprendendo-git#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2"
+  }
+}
